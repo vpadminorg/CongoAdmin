@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>/CongoAdmin/de/samples/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/CongoAdmin/samples/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="/CongoAdmin/es/samples/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="/CongoAdmin/ja/samples/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="/CongoAdmin/zh-hans/samples/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="de"
+              href="/CongoAdmin/de/samples/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>/CongoAdmin/de/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/CongoAdmin/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="/CongoAdmin/ja/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="/CongoAdmin/zh-hans/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="/CongoAdmin/es/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="de"
+              href="/CongoAdmin/de/"
+              />
+          </url>
+    
+  
+</urlset>

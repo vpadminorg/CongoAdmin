@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>/CongoAdmin/es/</loc>
+            <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/CongoAdmin/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="/CongoAdmin/ja/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="/CongoAdmin/zh-hans/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="de"
+              href="/CongoAdmin/de/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="/CongoAdmin/es/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>/CongoAdmin/es/users/</loc>
+            <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/CongoAdmin/users/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="/CongoAdmin/ja/users/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="/CongoAdmin/zh-hans/users/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="/CongoAdmin/es/users/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>/CongoAdmin/es/samples/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="/CongoAdmin/samples/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="ja"
+              href="/CongoAdmin/ja/samples/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="/CongoAdmin/zh-hans/samples/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="de"
+              href="/CongoAdmin/de/samples/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="/CongoAdmin/es/samples/"
+              />
+          </url>
+    
+  
+</urlset>
